@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+ -m pip install --upgrade pi# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
